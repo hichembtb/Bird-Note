@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "43652080129",
+    "project_id": "bird-notes-cb19d",
+    "storage_bucket": "bird-notes-cb19d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43652080129:android:53101618c81fc5f754d600",
+        "android_client_info": {
+          "package_name": "com.example.bird_note"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43652080129-c33vj6huna7al7cb3puu4us5479go42t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bird_note",
+            "certificate_hash": "7c1c6929fec88382b9446d9ffa414018cd6562e2"
+          }
+        },
+        {
+          "client_id": "43652080129-it4obo4c5na40kk7grn0lrrbdgs2l8i4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmtfiG6GXkKP7MwE_61Y3MHnnQi67jsz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43652080129-it4obo4c5na40kk7grn0lrrbdgs2l8i4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
